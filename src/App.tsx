@@ -928,7 +928,7 @@ function App() {
                   <li>• <strong>Conversão para Revoluções:</strong> L10 = L10h × N × 60 / 10⁶</li>
                   <li>• <strong>Capacidade Requerida Avançada:</strong> Creq = Pe × (L10)^(1/3)</li>
                   <li>• <strong>Carga Equivalente:</strong> Pe = X × Fr + Y × Fa</li>
-                  <li>• <strong>Fatores X,Y:</strong> Fa/Co ≤ 0.014: X=1, Y=0; Fa/Co {'>'} 0.014: X=0.56, Y=1.2-2.0</li>
+                  <li>• <strong>Fatores X,Y:</strong> Fa/Co ≤ 0.014: X=1, Y=0; Fa/Co &gt; 0.014: X=0.56, Y=1.2-2.0</li>
                   <li>• <strong>Conversão Diâmetro:</strong> D(mm) = D(in) × 25.4</li>
                 </ul>
               </div>
